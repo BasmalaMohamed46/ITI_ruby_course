@@ -1,0 +1,3 @@
+{title: book1, author: newauthor, isbn: 123, Count: 2}
+{title: book2, author: author2, isbn: 456, Count: 1}
+{title: book1, author: author1, isbn: 789, Count: 1}
