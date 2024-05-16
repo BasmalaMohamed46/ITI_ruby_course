@@ -19,7 +19,10 @@
         <div><%= message %></div>
       <% end %>
     </div>
-  
+    <div>
+    <%= form.label :image %><br>
+     <%= form.file_field :image %>
+    </div>
     <div>
       <%= form.submit %>
     </div>
